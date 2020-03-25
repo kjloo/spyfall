@@ -21,7 +21,6 @@ function getLocationSet(set){
     return hawaii;
   else if (set.locationSet == "fantasy")
     return fantasy;
-  return hawaii;
 }
 
 function getRandomLocation(locationSet){
@@ -83,8 +82,8 @@ Meteor.publish('setting', function(gameID) {
 
 Games.find({"state": 'settingUp'}).observeChanges({
   added: function (id, game) {
-    var set = Setting.find({gameID: id});
-    var locationSet = getLocationSet(set[0]);
+    var set = Setting.findOne({gameID: id});
+    var locationSet = getLocationSet(set);
     var location = getRandomLocation(locationSet);
     var players = Players.find({gameID: id});
     var gameEndTime = moment().add(game.lengthInMinutes, 'minutes').valueOf();

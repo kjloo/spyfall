@@ -376,7 +376,7 @@ Template.joinGame.events({
 
       if (game) {
         Meteor.subscribe('setting', game._id, function onReady(){
-          var locationSet = Setting.findOne({});
+          var locationSet = Setting.findOne({'gameID': game._id});
           Meteor.subscribe('players', game._id);
           player = generateNewPlayer(game, playerName);
 
