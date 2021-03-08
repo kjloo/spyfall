@@ -71,6 +71,7 @@
         "marvel universe": "Marvel Universe",
         "matrix": "Matrix",
         "middle earth": "Middle Earth",
+        "midgar": "Midgar",
         "mount olympus": "Mount Olympus",
         "mushroom kingdom": "Mushroom Kingdom",
         "narnia": "Narnia",
@@ -470,7 +471,7 @@
                 "tourist": "Tourist"
             },
             "kahoolawe": {
-			    "resident": "Resident"
+                "resident": "Resident"
             },
             "kanto region": {
                 "team rocket grunt": "Team Rocket Grunt",
@@ -559,6 +560,22 @@
                 "mouth of sauron": "Mouth of Sauron",
                 "witch king": "Witch King"
             },
+            "midgar": {
+                "soldier": "Soldier",
+                "first class soldier": "First Class Soldier",
+                "bar owner": "Bar Owner",
+                "flower peddler": "Flower Peddler",
+                "experiment": "Experiment",
+                "shinra employee": "Shinra Employee",
+                "ancient": "Ancient",
+                "avalanche ecoterrorist": "Avalance Ecoterrorist",
+                "mayor": "Mayor",
+                "chocobo stablehand": "Chocobo Stablehand",
+                "weapon": "Weapon",
+                "monster": "Monster",
+                "president of shinra": "President of Shinra",
+                "summon": "Summon"
+            },
             "mount olympus": {
                 "god of thunder": "God of Thunder",
                 "god of war": "God of War",
@@ -612,10 +629,10 @@
             },
             "niihau": {
                 "government official": "Government Official",
-			    "helicoptor tourist": "Helicoptor Tourist",
-			    "resident": "Resident",
-			    "robinson": "Robinson",
-			    "tresspasser": "Tresspasser"
+                "helicoptor tourist": "Helicoptor Tourist",
+                "resident": "Resident",
+                "robinson": "Robinson",
+                "tresspasser": "Tresspasser"
             },
             "north shore": {
                 "beach goer": "Beach goer",

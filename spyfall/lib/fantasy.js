@@ -37,7 +37,7 @@ fantasy = [
       'locations.roles.bedrock.mr. slate',
       'locations.roles.bedrock.pebbles flintstone',
       'locations.roles.bedrock.the great gazoo',
-      'locations.roles.bedrock.wilma flintstone'      
+      'locations.roles.bedrock.wilma flintstone'
     ]
   },
   {
@@ -357,6 +357,25 @@ fantasy = [
       'locations.roles.middle earth.uruk-hai',
       'locations.roles.middle earth.mouth of sauron',
       'locations.roles.middle earth.witch king'
+    ]
+  },
+  {
+    name: 'locations.midgar',
+    roles: [
+      'locations.roles.midgar.soldier',
+      'locations.roles.midgar.first class soldier',
+      'locations.roles.midgar.bar owner',
+      'locations.roles.midgar.flower peddler',
+      'locations.roles.midgar.experiment',
+      'locations.roles.midgar.shinra employee',
+      'locations.roles.midgar.ancient',
+      'locations.roles.midgar.avalanche ecoterrorist',
+      'locations.roles.midgar.mayor',
+      'locations.roles.midgar.chocobo stablehand',
+      'locations.roles.midgar.weapon',
+      'locations.roles.midgar.monster',
+      'locations.roles.midgar.president of shinra',
+      'locations.roles.midgar.summon',
     ]
   },
   {
