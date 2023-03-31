@@ -339,7 +339,7 @@ fantasy = [
       'locations.roles.matrix.agent',
       'locations.roles.matrix.oracle',
       'locations.roles.matrix.programmer',
-      'locations.roles.matrix.arhitect'
+      'locations.roles.matrix.architect'
     ]
   },
   {
