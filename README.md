@@ -6,6 +6,25 @@
 
 Issues, feature requests, and pull requests welcome!
 
+## Instructions
+
+1. Build the docker `docker build -t spyfall .`
+2. Run the image `docker compose up`
+
+#### Upload Image
+
+1. Tag image
+
+```shell
+docker tag spyfall:latest tinkermonkey808/spyfall:latest
+```
+
+2. Push to Docker Hub
+
+```
+docker push tinkermonkey808/spyfall:latest
+```
+
 ## History
 
 The "official" successor to `spyfall.meteor.com` and `spyfall.crabhat.com` is now `spyfall.tannerkrewson.com`, and this GitHub repository maintains the development history of the site since 2015.
