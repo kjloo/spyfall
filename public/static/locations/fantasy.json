@@ -382,6 +382,37 @@
       ]
     },
     {
+      "name": "locations.mira hq",
+      "roles": [
+        "locations.roles.mira hq.crewmate",
+        "locations.roles.mira hq.impostor",
+        "locations.roles.mira hq.shapeshifter",
+        "locations.roles.mira hq.scientist",
+        "locations.roles.mira hq.engineer"
+      ]
+    },
+    {
+      "name": "locations.miyazaki universe",
+      "roles": [
+        "locations.roles.miyazaki movies.spirit of the forest",
+        "locations.roles.miyazaki movies.witch",
+        "locations.roles.miyazaki movies.apprentice witch",
+        "locations.roles.miyazaki movies.cat bus",
+        "locations.roles.miyazaki movies.aviator",
+        "locations.roles.miyazaki movies.princess of the wolves",
+        "locations.roles.miyazaki movies.boiler operator",
+        "locations.roles.miyazaki movies.courier",
+        "locations.roles.miyazaki movies.mysterious neighbor",
+        "locations.roles.miyazaki movies.young inventor",
+        "locations.roles.miyazaki movies.fish human",
+        "locations.roles.miyazaki movies.castle keeper",
+        "locations.roles.miyazaki movies.king of the valley of the wind",
+        "locations.roles.miyazaki movies.village elder",
+        "locations.roles.miyazaki movies.bounty hunter",
+        "locations.roles.miyazaki movies.robot guardian"
+      ]
+    },
+    {
       "name": "locations.mount olympus",
       "roles": [
         "locations.roles.mount olympus.god of thunder",
@@ -460,6 +491,20 @@
       ]
     },
     {
+      "name": "locations.piltover",
+      "roles": [
+        "locations.roles.piltover.professor",
+        "locations.roles.piltover.council member",
+        "locations.roles.piltover.hextech engineer",
+        "locations.roles.piltover.market merchant",
+        "locations.roles.piltover.enforcer",
+        "locations.roles.piltover.zaunite",
+        "locations.roles.piltover.scholar",
+        "locations.roles.piltover.firelight",
+        "locations.roles.piltover.artificer"
+      ]
+    },
+    {
       "name": "locations.pixar universe",
       "roles": [
         "locations.roles.pixar universe.toy",
@@ -511,6 +556,26 @@
         "locations.roles.uss enterprise.flight controller",
         "locations.roles.uss enterprise.transporter chief",
         "locations.roles.uss enterprise.science officer"
+      ]
+    },
+    {
+      "name": "locations.waterdeep",
+      "roles": [
+        "locations.roles.waterdeep.archmage",
+        "locations.roles.waterdeep.blackstaff",
+        "locations.roles.waterdeep.masked lord",
+        "locations.roles.waterdeep.guildmaster",
+        "locations.roles.waterdeep.city watch captain",
+        "locations.roles.waterdeep.thief",
+        "locations.roles.waterdeep.merchant",
+        "locations.roles.waterdeep.innkeeper",
+        "locations.roles.waterdeep.noble",
+        "locations.roles.waterdeep.adventurer",
+        "locations.roles.waterdeep.dockworker",
+        "locations.roles.waterdeep.bard",
+        "locations.roles.waterdeep.assassin",
+        "locations.roles.waterdeep.temple priest",
+        "locations.roles.waterdeep.dragon cultist"
       ]
     },
     {

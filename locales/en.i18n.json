@@ -73,6 +73,8 @@
 		"matrix": "Matrix",
 		"middle earth": "Middle Earth",
 		"midgar": "Midgar",
+		"mira hq": "MIRA HQ",
+		"miyazaki universe": "Miyazaki Universe",
 		"mount olympus": "Mount Olympus",
 		"mushroom kingdom": "Mushroom Kingdom",
 		"narnia": "Narnia",
@@ -83,6 +85,7 @@
 		"pandora": "Pandora (Avatar)",
 		"panem": "Panem",
 		"pearl harbor": "Pearl Harbor",
+		"piltover": "Piltover",
 		"pixar universe": "Pixar Universe",
 		"planet of the apes": "Planet of the Apes",
 		"punahou carnival": "Punahou Carnival",
@@ -93,6 +96,7 @@
 		"university of hawaii": "University of Hawaii",
 		"uss enterprise": "USS Enterprise",
 		"waikiki": "Waikiki",
+		"waterdeep": "Waterdeep",
 		"westeros": "Westeros",
 		"wetnwild": "Wet 'n' Wild",
 		"wonderland": "Wonderland",
@@ -625,6 +629,31 @@
 				"president of shinra": "President of Shinra",
 				"summon": "Summon"
 			},
+			"mira hq": {
+				"crewmate": "Crewmate",
+				"impostor": "Impostor",
+				"shapeshifter": "Shareshifter",
+				"scientist": "Scientist",
+				"engineer": "Engineer"
+			},
+			"miyazaki universe": {
+				"spirit of the forest": "Spirit of the Forest",
+				"witch": "Witch",
+				"apprentice witch": "Apprentice Witch",
+				"cat bus": "Cat Bus",
+				"aviator": "Aviator",
+				"princess of the wolves": "Princess of the Wolves",
+				"boiler operator": "Boiler Operator",
+				"courier": "Courier",
+				"mysterious neighbor": "Mysterious Neighbor",
+				"young inventor": "Young Inventor",
+				"fish human": "Fish Human",
+				"castle keeper": "Castle Keeper",
+				"king of the valley of the wind": "King of the Valley of the Wind",
+				"village elder": "Village Elder",
+				"bounty hunter": "Bounty Hunter",
+				"robot guardian": "Robot Guardian"
+			},
 			"mount olympus": {
 				"god of thunder": "God of Thunder",
 				"god of war": "God of War",
@@ -719,6 +748,17 @@
 				"shipyard mechanic": "Shipyard Mechanic",
 				"ship safety specialist": "Ship Safety Specialist",
 				"systems engineer": "Systems Engineer"
+			},
+			"piltover": {
+				"professor": "Professor",
+				"council member": "Council Member",
+				"hextech engineer": "Hextech Engineer",
+				"market merchent": "Market Merchant",
+				"enforcer": "Enforcer",
+				"zaunite": "Zaunite",
+				"scholar": "Scholar",
+				"firelight": "Firelight",
+				"artificer": "Artificer"
 			},
 			"pixar universe": {
 				"toy": "Toy",
@@ -818,6 +858,23 @@
 				"tourist": "Tourist",
 				"trolley operator": "Trolley Operator",
 				"waiter": "Waiter"
+			},
+			"waterdeep": {
+				"archmage": "Archmage",
+				"blackstaff": "Blackstaff",
+				"masked lord": "Masked Lord",
+				"guildmaster": "Guildmaster",
+				"city watch captain": "City Watch Captain",
+				"thief": "Thief",
+				"merchant": "Merchant",
+				"innkeeper": "Innkeeper",
+				"noble": "Noble",
+				"adventurer": "Adventurer",
+				"dockworker": "Dockworker",
+				"bard": "Bard",
+				"assassin": "Assassin",
+				"temple priest": "Temple Priest",
+				"dragon cultist": "Dragon Cultist"
 			},
 			"westeros": {
 				"ranger of the nights watch": "Ranger of the Night's Watch",
